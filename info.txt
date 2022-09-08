@@ -1,0 +1,4 @@
+\c chinook
+
+set_pg
+psql - chinook
